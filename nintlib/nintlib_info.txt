@@ -1,0 +1,11 @@
+List of Routines:
+
+BOX_ND estimates a multidimensional integral using a product rule.
+MONTE_CARLO_ND estimates a multidimensional integral using Monte Carlo.
+P5_ND estimates a multidimensional integral using a formula of exactness 5.
+R8VEC_UNIFORM_01 returns a unit pseudorandom R8VEC.
+ROMBERG_ND estimates a multidimensional integral using Romberg integration.
+SAMPLE_ND estimates a multidimensional integral using sampling.
+SUM2_ND estimates a multidimensional integral using a product rule.
+TIMESTAMP prints the current YMDHMS date as a time stamp.
+TUPLE_NEXT computes the next element of a tuple space.

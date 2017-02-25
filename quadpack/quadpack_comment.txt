@@ -1,0 +1,36 @@
+List of Routines:
+
+AAAA is a dummy subroutine with QUADPACK documentation in its comments.
+QAG approximates an integral over a finite interval.
+QAGE estimates a definite integral.
+QAGI estimates an integral over a semi-infinite or infinite interval.
+QAGP computes a definite integral.
+QAGS estimates the integral of a function.
+QAWC computes a Cauchy principal value.
+QAWCE computes a Cauchy principal value.
+QAWF computes Fourier integrals over the interval [ A, +Infinity ).
+QAWFE computes Fourier integrals.
+QAWO computes the integrals of oscillatory integrands.
+QAWS estimates integrals with algebraico-logarithmic endpoint singularities.
+QAWSE estimates integrals with algebraico-logarithmic endpoint singularities.
+QC25C returns integration rules for Cauchy Principal Value integrals.
+QC25O returns integration rules for integrands with a COS or SIN factor.
+QC25S returns rules for algebraico-logarithmic end point singularities.
+QCHEB computes the Chebyshev series expansion.
+QEXTR carries out the Epsilon extrapolation algorithm.
+QFOUR estimates the integrals of oscillatory functions.
+QK15 carries out a 15 point Gauss-Kronrod quadrature rule.
+QK15I applies a 15 point Gauss-Kronrod quadrature on an infinite interval.
+QK15W applies a 15 point Gauss-Kronrod rule for a weighted integrand.
+QK21 carries out a 21 point Gauss-Kronrod quadrature rule.
+QK31 carries out a 31 point Gauss-Kronrod quadrature rule.
+QK41 carries out a 41 point Gauss-Kronrod quadrature rule.
+QK51 carries out a 51 point Gauss-Kronrod quadrature rule.
+QK61 carries out a 61 point Gauss-Kronrod quadrature rule.
+QMOMO computes modified Chebyshev moments.
+QNG estimates an integral, using non-adaptive integration.
+QSORT maintains the order of a list of local error estimates.
+QWGTC defines the weight function used by QC25C.
+QWGTO defines the weight functions used by QC25O.
+QWGTS defines the weight functions used by QC25S.
+TIMESTAMP prints the current YMDHMS date as a time stamp.

@@ -1,0 +1,28 @@
+List of Routines:
+
+AVINT estimates the integral of unevenly spaced data.
+CADRE estimates the integral of F(X) from A to B.
+CHINSP estimates an integral using a modified Clenshaw-Curtis scheme.
+CLASS sets recurrence coeeficients for various orthogonal polynomials.
+CSPINT estimates the integral of a tabulated function.
+CUBINT approximates an integral using cubic interpolation of data.
+FILON_COS uses Filon's method on integrals with a cosine factor.
+FILON_SIN uses Filon's method on integrals with a sine factor.
+GAMMA calculates the Gamma function for a real argument X.
+GAUS8 estimates the integral of a function.
+GAUSQ2 finds the eigenvalues of a symmetric tridiagonal matrix.
+GAUSSQ computes a Gauss quadrature rule.
+HIORDQ approximates the integral of a function using equally spaced data.
+IRATEX estimates the integral of a function.
+MONTE_CARLO estimates the integral of a function by Monte Carlo.
+PLINT approximates the integral of unequally spaced data.
+QNC79 approximates the integral of F(X) using Newton-Cotes quadrature.
+QUAD approximates the integral of F(X) by Romberg integration.
+R8VEC_EVEN returns N values, evenly spaced between ALO and AHI.
+RMINSP approximates the integral of a function using Romberg integration.
+SIMP approximates the integral of a function by an adaptive Simpson's rule.
+SIMPNE approximates the integral of unevenly spaced data.
+SIMPSN approximates the integral of evenly spaced data.
+SOLVE solves a special linear system.
+TIMESTAMP prints the current YMDHMS date as a time stamp.
+WEDINT uses Weddle's rule to integrate data at equally spaced points.
